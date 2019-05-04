@@ -1,0 +1,499 @@
+incident_id,inc_descrip,route,direction,Marker,number,inc_start,inc_duration,lanecount,blkDuration,respTime,rural
+167165,Multivehicle Crash,I-75,Southbound,Milepost,81,7/1/2017 1:28,64,1,55,4,Rural
+167167,Multivehicle Crash,I-40,Westbound,Milepost,381,7/1/2017 3:53,102,1,7,5,Urban
+167213,Multivehicle Crash,I-40,Eastbound,Milepost,395,7/1/2017 16:57,7,0,0,0,Urban
+167216,Multivehicle Crash,I-40,Eastbound,Milepost,383,7/1/2017 17:39,3,0,0,N/A,Urban
+167221,Multivehicle Crash,I-81,Northbound,Milepost,27,7/1/2017 18:42,100,1,99,N/A,Rural
+167223,Single Vehicle Crash,I-40,Eastbound,Milepost,375,7/1/2017 18:58,85,0,0,0,Urban
+167278,Multivehicle Crash,I-40,Eastbound,Milepost,393,7/2/2017 19:14,45,0,0,1,Urban
+167279,Single Vehicle Crash,I-40,Eastbound,Milepost,422,7/3/2017 0:28,252,1,251,1,Rural
+167297,Single Vehicle Crash,I-40,Westbound,Milepost,360,7/3/2017 8:01,77,1,71,2,Rural
+167301,Single Vehicle Crash,I-75,Southbound,Milepost,151,7/3/2017 8:48,124,2,100,2,Rural
+167313,Multivehicle Crash,I-75,Northbound,Milepost,159,7/3/2017 12:05,15,1,12,N/A,Rural
+167338,Multivehicle Crash,I-75,Northbound,Milepost,116,7/3/2017 16:04,62,0,0,15,Urban
+167385,Single Vehicle Crash,I-40,Eastbound,Milepost,368,7/4/2017 16:03,21,0,0,0,Rural
+167388,Single Vehicle Crash,I-40,Westbound,Milepost,395,7/4/2017 16:44,63,1,17,3,Urban
+167391,Overturned Vehicle,I-640,Eastbound,Milepost,0,7/4/2017 17:21,79,3,75,0,Urban
+167393,Multivehicle Crash,I-40,Eastbound,Milepost,384,7/4/2017 17:54,59,2,29,2,Urban
+167402,Multivehicle Crash,I-40,Westbound,Milepost,384,7/4/2017 22:02,42,2,17,7,Urban
+167403,Overturned Vehicle,I-40,Eastbound,Milepost,416,7/5/2017 0:35,96,3,58,N/A,Rural
+167424,Multivehicle Crash,I-40,Westbound,Milepost,383,7/5/2017 9:50,13,0,0,0,Urban
+167439,Multivehicle Crash,I-75,Southbound,Milepost,108,7/5/2017 12:25,54,1,13,2,Urban
+167452,Multivehicle Crash,I-75,Northbound,Milepost,112,7/5/2017 13:38,3,0,0,0,Urban
+167460,Vehicle Fire,I-40,Westbound,Milepost,398,7/5/2017 15:02,68,1,36,8,Urban
+167464,Single Vehicle Crash,I-640,Westbound,Milepost,2,7/5/2017 15:28,3,0,0,2,Urban
+167472,Multivehicle Crash,I-640,Eastbound,Milepost,6,7/5/2017 17:05,15,0,0,7,Urban
+167475,Single Vehicle Crash,I-40,Westbound,Milepost,379,7/5/2017 17:46,46,0,0,0,Urban
+167492,Single Vehicle Crash,I-40,Eastbound,Milepost,383,7/6/2017 4:17,41,0,0,14,Urban
+167506,Single Vehicle Crash,I-40,Eastbound,Milepost,383,7/6/2017 7:51,67,1,1,0,Urban
+167508,Multivehicle Crash,I-640,Westbound,Milepost,2,7/6/2017 8:18,10,0,0,0,Urban
+167533,Multivehicle Crash,I-40,Westbound,Milepost,379,7/6/2017 13:51,2,0,0,N/A,Urban
+167536,Single Vehicle Crash,I-640,Westbound,Milepost,3,7/6/2017 14:10,71,0,0,0,Urban
+167541,Multivehicle Crash,I-40,Eastbound,Milepost,378,7/6/2017 14:50,37,0,0,4,Urban
+167559,Multivehicle Crash,I-140,Westbound,Milepost,0,7/6/2017 17:32,96,0,0,0,Urban
+167560,Multivehicle Crash,I-640,Eastbound,Milepost,1,7/6/2017 17:56,10,0,0,0,Urban
+167571,Multivehicle Crash,I-81,Northbound,Milepost,71,7/6/2017 20:48,88,1,86,N/A,Rural
+167575,Single Vehicle Crash,I-40,Westbound,Milepost,393,7/6/2017 22:18,68,0,0,0,Urban
+167578,Single Vehicle Crash,I-640,Eastbound,Milepost,8,7/7/2017 6:19,88,1,3,5,Urban
+167633,Multivehicle Crash,I-40,Westbound,Milepost,373,7/7/2017 16:57,22,1,4,0,Urban
+167635,Multivehicle Crash,I-40,Eastbound,Milepost,369,7/7/2017 17:00,124,2,31,1,Urban
+167639,Multivehicle Crash,I-40,Eastbound,Milepost,367,7/7/2017 17:27,7,0,0,1,Rural
+167642,Single Vehicle Crash,I-40,Eastbound,Milepost,399,7/7/2017 18:26,76,3,56,1,Urban
+167655,Single Vehicle Crash,I-81,Southbound,Milepost,0,7/8/2017 1:13,85,0,0,1,Rural
+167677,Single Vehicle Crash,I-26,Westbound,Milepost,15,7/8/2017 11:02,46,0,0,N/A,Rural
+167692,Single Vehicle Crash,I-640,Westbound,Milepost,2,7/8/2017 13:53,30,1,2,0,Urban
+167697,Single Vehicle Crash,I-40,Westbound,Milepost,363,7/8/2017 14:55,34,1,32,N/A,Rural
+167701,Multivehicle Crash,I-40,Westbound,Milepost,378,7/8/2017 15:27,22,0,0,0,Urban
+167704,Single Vehicle Crash,I-140,Westbound,Milepost,5,7/8/2017 15:50,27,0,0,0,Urban
+167710,Multivehicle Crash,I-40,Westbound,Milepost,387,7/8/2017 16:29,43,0,0,4,Urban
+167711,Multivehicle Crash,I-40,Eastbound,Milepost,406,7/8/2017 16:39,15,0,0,0,Rural
+167713,Vehicle Fire,I-40,Westbound,Milepost,432,7/8/2017 17:20,52,2,48,N/A,Rural
+167721,Multivehicle Crash,I-640,Eastbound,Milepost,10,7/8/2017 19:58,31,0,0,0,Urban
+167722,Single Vehicle Crash,I-40,Eastbound,Milepost,393,7/9/2017 4:08,54,1,0,2,Urban
+167737,Single Vehicle Crash,I-75,Northbound,Milepost,137,7/9/2017 12:31,130,1,43,66,Rural
+167740,Multivehicle Crash,I-40,Westbound,Milepost,383,7/9/2017 13:12,42,2,2,5,Urban
+167761,Multivehicle Crash,I-75,Southbound,Milepost,138,7/9/2017 17:05,130,1,49,1,Rural
+167769,Single Vehicle Crash,I-75,Northbound,Milepost,126,7/9/2017 18:44,21,1,19,2,Rural
+167802,Multivehicle Crash,I-640,Eastbound,Milepost,3,7/10/2017 9:15,67,2,0,8,Urban
+167807,Vehicle Fire,I-140,Westbound,Milepost,4,7/10/2017 10:14,14,1,11,0,Urban
+167810,Single Vehicle Crash,I-40,Eastbound,Milepost,393,7/10/2017 10:33,75,1,7,4,Urban
+167871,Overturned Vehicle,I-81,Northbound,Milepost,10,7/11/2017 4:59,460,2,416,2,Rural
+167885,Vehicle Fire,I-26,Eastbound,Milepost,50,7/11/2017 8:51,240,2,234,N/A,Rural
+167921,Multivehicle Crash,I-75,Southbound,Milepost,83,7/11/2017 15:25,23,2,20,3,Rural
+167935,Multivehicle Crash,I-40,Westbound,Milepost,374,7/11/2017 17:17,119,2,25,2,Urban
+167938,Multivehicle Crash,I-40,Eastbound,Milepost,392,7/11/2017 17:30,49,2,48,7,Urban
+167959,Multivehicle Crash,I-40,Eastbound,Milepost,399,7/11/2017 22:22,128,1,125,1,Urban
+167988,Single Vehicle Crash,I-26,Eastbound,Milepost,8,7/12/2017 11:34,14,2,13,N/A,Rural
+168002,Single Vehicle Crash,I-75,Southbound,Milepost,132,7/12/2017 15:00,52,1,50,N/A,Rural
+168017,Vehicle Fire,I-140,Westbound,Milepost,7,7/12/2017 18:51,17,0,0,0,Urban
+168039,Multivehicle Crash,I-40,Eastbound,Milepost,380,7/13/2017 7:34,35,0,0,5,Urban
+168041,Multivehicle Crash,I-40,Eastbound,Milepost,378,7/13/2017 8:13,58,1,26,2,Urban
+168044,Multivehicle Crash,I-640,Westbound,Milepost,0,7/13/2017 8:53,46,0,0,0,Urban
+168077,Multivehicle Crash,I-75,Southbound,Milepost,109,7/13/2017 15:26,147,2,17,3,Urban
+168083,Single Vehicle Crash,I-40,Westbound,Milepost,371,7/13/2017 17:09,84,0,0,0,Urban
+168106,Single Vehicle Crash,I-40,Eastbound,Milepost,385,7/14/2017 2:09,22,2,21,1,Urban
+168107,Single Vehicle Crash,I-81,Northbound,Milepost,17,7/14/2017 5:46,13,1,12,N/A,Rural
+168113,Multivehicle Crash,I-40,Eastbound,Milepost,380,7/14/2017 7:35,47,0,0,1,Urban
+168131,Multivehicle Crash,I-40,Westbound,Milepost,397,7/14/2017 11:17,115,1,23,1,Urban
+168148,Multivehicle Crash,I-40,Westbound,Milepost,387,7/14/2017 15:25,56,2,19,0,Urban
+168152,Single Vehicle Crash,I-40,Westbound,Milepost,347,7/14/2017 16:13,6,1,6,N/A,Rural
+168159,Multivehicle Crash,I-40,Westbound,Milepost,377,7/14/2017 18:04,33,1,1,4,Urban
+168172,Multivehicle Crash,I-75,Northbound,Milepost,118,7/14/2017 20:41,36,1,34,0,Rural
+168212,Multivehicle Crash,I-40,Eastbound,Milepost,389,7/15/2017 20:18,25,0,0,N/A,Urban
+168213,Vehicle Fire,I-40,Westbound,Milepost,375,7/15/2017 22:15,82,1,0,7,Urban
+168214,Multivehicle Crash,I-40,Eastbound,Milepost,384,7/16/2017 2:52,66,3,65,1,Urban
+168215,Multivehicle Crash,I-40,Eastbound,Milepost,384,7/16/2017 3:15,43,1,3,2,Urban
+168232,Multivehicle Crash,I-40,Eastbound,Milepost,395,7/16/2017 12:50,87,0,0,7,Urban
+168233,Multivehicle Crash,I-40,Eastbound,Milepost,369,7/16/2017 12:58,58,1,11,12,Urban
+168239,Multivehicle Crash,I-75,Northbound,Milepost,82,7/16/2017 14:17,20,0,0,1,Rural
+168272,Overturned Vehicle,I-81,Northbound,Milepost,49,7/16/2017 20:31,21,1,21,N/A,Rural
+168273,Single Vehicle Crash,I-75,Southbound,Milepost,133,7/17/2017 5:14,58,1,56,N/A,Rural
+168274,Single Vehicle Crash,I-40,Eastbound,Milepost,427,7/17/2017 5:17,16,1,14,N/A,Rural
+168278,Overturned Vehicle,I-40,Westbound,Milepost,445,7/17/2017 6:59,307,2,305,N/A,Rural
+168320,Multivehicle Crash,I-40,Westbound,Milepost,384,7/17/2017 14:31,62,2,22,2,Urban
+168365,Single Vehicle Crash,I-40,Eastbound,Milepost,371,7/18/2017 10:13,41,1,12,1,Urban
+168377,Multivehicle Crash,I-275,Southbound,Milepost,3,7/18/2017 13:14,19,0,0,2,Urban
+168380,Multivehicle Crash,I-40,Westbound,Milepost,388,7/18/2017 13:51,38,0,0,N/A,Urban
+168395,Multivehicle Crash,I-40,Eastbound,Milepost,386,7/18/2017 18:01,20,0,0,2,Urban
+168410,Multivehicle Crash,I-40,Westbound,Milepost,364,7/19/2017 1:53,44,0,0,1,Rural
+168429,Multivehicle Crash,I-40,Eastbound,Milepost,393,7/19/2017 11:02,27,0,0,9,Urban
+168433,Multivehicle Crash,I-75,Northbound,Milepost,110,7/19/2017 11:47,24,0,0,22,Urban
+168465,Multivehicle Crash,I-40,Eastbound,Milepost,383,7/19/2017 17:09,56,1,17,0,Urban
+168476,Multivehicle Crash,I-75,Southbound,Milepost,121,7/19/2017 19:59,49,1,45,N/A,Rural
+168486,Vehicle Fire,I-40,Westbound,Milepost,402,7/19/2017 22:50,363,2,171,1,Urban
+168495,Multivehicle Crash,I-40,Westbound,Milepost,387,7/20/2017 7:38,23,0,0,2,Urban
+168497,Multivehicle Crash,I-40,Westbound,Milepost,382,7/20/2017 8:02,9,0,0,0,Urban
+168559,Overturned Vehicle,I-640,Eastbound,Milepost,10,7/21/2017 1:19,252,2,178,7,Urban
+168579,Multivehicle Crash,I-40,Westbound,Milepost,370,7/21/2017 8:54,59,0,0,0,Urban
+168584,Multivehicle Crash,I-640,Westbound,Milepost,5,7/21/2017 9:48,74,0,0,7,Urban
+168622,Multivehicle Crash,I-40,Eastbound,Milepost,371,7/21/2017 16:24,68,0,0,13,Urban
+168627,Multivehicle Crash,I-40,Eastbound,Milepost,378,7/21/2017 16:47,55,0,0,N/A,Urban
+168643,Single Vehicle Crash,I-81,Northbound,Milepost,21,7/21/2017 19:16,32,2,30,N/A,Rural
+168656,Multivehicle Crash,I-40,Eastbound,Milepost,389,7/22/2017 3:46,15,0,0,3,Urban
+168662,Vehicle Fire,I-81,Northbound,Milepost,37,7/22/2017 9:31,321,1,160,N/A,Rural
+168677,Multivehicle Crash,I-75,Northbound,Milepost,81,7/22/2017 12:39,78,1,21,4,Rural
+168684,Multivehicle Crash,I-26,Westbound,Milepost,13,7/22/2017 13:35,74,2,73,N/A,Rural
+168692,Multivehicle Crash,I-40,Eastbound,Milepost,380,7/22/2017 15:10,43,0,0,0,Urban
+168717,Single Vehicle Crash,I-40,Eastbound,Milepost,385,7/22/2017 19:25,27,0,0,0,Urban
+168733,Multivehicle Crash,I-40,Westbound,Milepost,439,7/23/2017 11:59,41,1,39,N/A,Rural
+168736,Multivehicle Crash,I-40,Westbound,Milepost,443,7/23/2017 12:40,48,1,33,1,Rural
+168766,Multivehicle Crash,I-40,Eastbound,Milepost,407,7/23/2017 18:19,59,0,0,1,Rural
+168774,Overturned Vehicle,I-40,Westbound,Milepost,343,7/24/2017 2:40,250,1,247,N/A,Rural
+168778,Multivehicle Crash,I-40,Eastbound,Milepost,373,7/24/2017 6:43,98,0,0,8,Urban
+168783,Multivehicle Crash,I-40,Westbound,Milepost,397,7/24/2017 7:12,66,0,0,0,Urban
+168825,Multivehicle Crash,I-40,Westbound,Milepost,403,7/24/2017 14:58,119,1,4,0,Urban
+168832,Single Vehicle Crash,I-81,Northbound,Milepost,16,7/24/2017 16:02,38,1,37,N/A,Rural
+168838,Multivehicle Crash,I-40,Eastbound,Milepost,377,7/24/2017 16:58,37,0,0,N/A,Urban
+168839,Multivehicle Crash,I-40,Eastbound,Milepost,378,7/24/2017 17:07,35,0,0,0,Urban
+168885,Multivehicle Crash,I-40,Westbound,Milepost,433,7/25/2017 13:27,165,1,160,6,Rural
+168905,Multivehicle Crash,I-40,Westbound,Milepost,387,7/25/2017 17:25,70,0,0,0,Urban
+168947,Multivehicle Crash,I-40,Westbound,Milepost,341,7/26/2017 10:15,59,0,0,8,Rural
+168971,Multivehicle Crash,I-40,Eastbound,Milepost,381,7/26/2017 14:51,26,0,0,1,Urban
+168977,Multivehicle Crash,I-40,Eastbound,Milepost,379,7/26/2017 15:33,20,0,0,0,Urban
+168979,Multivehicle Crash,I-40,Eastbound,Milepost,378,7/26/2017 15:56,39,0,0,0,Urban
+168984,Multivehicle Crash,I-40,Westbound,Milepost,387,7/26/2017 16:30,33,2,16,3,Urban
+168993,Multivehicle Crash,I-640,Eastbound,Milepost,3,7/26/2017 17:57,34,0,0,2,Urban
+168995,Multivehicle Crash,I-40,Eastbound,Milepost,387,7/26/2017 18:15,149,0,0,3,Urban
+169013,Single Vehicle Crash,I-40,Eastbound,Milepost,383,7/27/2017 3:09,25,1,25,1,Urban
+169015,Multivehicle Crash,I-40,Eastbound,Milepost,382,7/27/2017 5:46,47,2,13,2,Urban
+169029,Multivehicle Crash,I-75,Southbound,Milepost,84,7/27/2017 9:11,127,1,15,2,Urban
+169031,Multivehicle Crash,I-40,Eastbound,Milepost,381,7/27/2017 9:55,34,0,0,0,Urban
+169043,Single Vehicle Crash,I-81,Northbound,Milepost,2,7/27/2017 12:07,34,1,19,12,Rural
+169066,Multivehicle Crash,I-40,Eastbound,Milepost,383,7/27/2017 16:12,29,0,0,4,Urban
+169069,Multivehicle Crash,I-640,Westbound,Milepost,1,7/27/2017 16:45,48,0,0,0,Urban
+169127,Single Vehicle Crash,I-275,Northbound,Milepost,3,7/28/2017 13:02,4,0,0,0,Urban
+169131,Multivehicle Crash,I-40,Westbound,Milepost,389,7/28/2017 13:15,72,0,0,1,Urban
+169132,Single Vehicle Crash,I-640,Westbound,Milepost,3,7/28/2017 13:36,11,0,0,N/A,Urban
+169134,Multivehicle Crash,I-40,Eastbound,Milepost,368,7/28/2017 13:51,83,1,82,5,Rural
+169136,Multivehicle Crash,I-75,Southbound,Milepost,108,7/28/2017 14:03,20,0,0,0,Urban
+169139,Multivehicle Crash,I-640,Eastbound,Milepost,3,7/28/2017 14:31,92,1,83,6,Urban
+169143,Multivehicle Crash,I-40,Westbound,Milepost,378,7/28/2017 15:20,135,1,6,1,Urban
+169144,Multivehicle Crash,I-81,Northbound,Milepost,61,7/28/2017 15:29,84,2,82,1,Urban
+169147,Multivehicle Crash,I-40,Westbound,Milepost,387,7/28/2017 15:59,57,1,5,5,Urban
+169150,Multivehicle Crash,I-40,Eastbound,Milepost,387,7/28/2017 16:30,50,1,12,4,Urban
+169151,Multivehicle Crash,I-40,Eastbound,Milepost,369,7/28/2017 16:45,105,0,0,12,Urban
+169155,Multivehicle Crash,I-40,Westbound,Milepost,382,7/28/2017 19:16,38,2,5,7,Urban
+169157,Single Vehicle Crash,I-40,Eastbound,Milepost,393,7/28/2017 19:30,19,0,0,0,Urban
+169159,Single Vehicle Crash,I-640,Westbound,Milepost,2,7/28/2017 20:09,66,0,0,3,Urban
+169161,Single Vehicle Crash,I-640,Eastbound,Milepost,0,7/28/2017 20:33,30,0,0,8,Urban
+169222,Multivehicle Crash,I-40,Westbound,Milepost,375,7/30/2017 7:53,82,0,0,1,Urban
+169236,Multivehicle Crash,I-40,Eastbound,Milepost,396,7/30/2017 11:53,118,0,0,9,Urban
+169260,Vehicle Fire,I-75,Southbound,Milepost,133,7/30/2017 18:26,51,1,50,N/A,Rural
+169289,Multivehicle Crash,I-40,Eastbound,Milepost,354,7/31/2017 8:52,58,1,56,N/A,Rural
+169294,Multivehicle Crash,I-26,Eastbound,Milepost,14,7/31/2017 10:14,27,1,23,N/A,Rural
+169327,Multivehicle Crash,I-75,Southbound,Milepost,108,7/31/2017 15:38,9,0,0,N/A,Urban
+169344,Vehicle Fire,I-40,Westbound,Milepost,399,7/31/2017 18:46,9,0,0,N/A,Urban
+169357,Multivehicle Crash,I-40,Eastbound,Milepost,377,8/1/2017 7:40,59,0,0,29,Urban
+169358,Multivehicle Crash,I-40,Westbound,Milepost,379,8/1/2017 8:00,62,0,0,0,Urban
+169363,Multivehicle Crash,I-40,Westbound,Milepost,380,8/1/2017 8:34,52,0,0,0,Urban
+169366,Multivehicle Crash,I-40,Westbound,Milepost,383,8/1/2017 8:56,93,1,0,0,Urban
+169370,Multivehicle Crash,I-40,Eastbound,Milepost,394,8/1/2017 9:41,126,0,0,0,Urban
+169394,Vehicle Fire,I-75,Southbound,Milepost,110,8/1/2017 15:51,178,2,162,0,Urban
+169400,Multivehicle Crash,I-40,Eastbound,Milepost,383,8/1/2017 16:56,57,0,0,4,Urban
+169471,Multivehicle Crash,I-40,Westbound,Milepost,342,8/2/2017 15:18,27,1,26,N/A,Rural
+169541,Multivehicle Crash,I-640,Westbound,Milepost,3,8/3/2017 13:48,43,1,12,6,Urban
+169544,Multivehicle Crash,I-275,Southbound,Milepost,2,8/3/2017 14:07,45,1,7,2,Urban
+169562,Multivehicle Crash,I-75,Southbound,Milepost,83,8/3/2017 18:18,39,0,0,2,Rural
+169568,Multivehicle Crash,I-40,Westbound,Milepost,410,8/3/2017 19:14,84,1,24,33,Rural
+169582,Multivehicle Crash,I-40,Eastbound,Milepost,383,8/3/2017 21:38,14,0,0,0,Urban
+169583,Multivehicle Crash,I-40,Westbound,Milepost,381,8/4/2017 4:23,183,1,39,2,Urban
+169611,Single Vehicle Crash,I-640,Eastbound,Milepost,10,8/4/2017 11:24,4,0,0,0,Urban
+169612,Multivehicle Crash,I-40,Eastbound,Milepost,387,8/4/2017 11:31,67,0,0,0,Urban
+169630,Multivehicle Crash,I-75,Southbound,Milepost,108,8/4/2017 14:04,72,0,0,0,Urban
+169632,Single Vehicle Crash,I-40,Eastbound,Milepost,375,8/4/2017 14:47,25,0,0,2,Urban
+169636,Multivehicle Crash,I-40,Eastbound,Milepost,387,8/4/2017 15:25,8,0,0,0,Urban
+169637,Multivehicle Crash,I-40,Eastbound,Milepost,372,8/4/2017 15:30,24,0,0,0,Urban
+169643,Multivehicle Crash,I-75,Southbound,Milepost,108,8/4/2017 16:38,100,1,6,3,Urban
+169644,Multivehicle Crash,I-40,Westbound,Milepost,382,8/4/2017 16:41,85,1,16,4,Urban
+169646,Multivehicle Crash,I-75,Northbound,Milepost,114,8/4/2017 17:18,55,2,4,32,Urban
+169651,Single Vehicle Crash,I-640,Eastbound,Milepost,6,8/4/2017 18:42,32,0,0,7,Urban
+169652,Single Vehicle Crash,I-640,Westbound,Milepost,3,8/4/2017 18:50,56,0,0,0,Urban
+169659,Single Vehicle Crash,I-75,Southbound,Milepost,85,8/4/2017 20:18,59,0,0,0,Rural
+169663,Single Vehicle Crash,I-40,Eastbound,Milepost,341,8/4/2017 22:18,71,0,0,9,Rural
+169664,Single Vehicle Crash,I-40,Eastbound,Milepost,390,8/5/2017 0:05,58,0,0,1,Urban
+169666,Multivehicle Crash,I-75,Southbound,Milepost,121,8/5/2017 3:47,50,2,17,N/A,Rural
+169670,Single Vehicle Crash,I-75,Southbound,Milepost,108,8/5/2017 9:06,152,1,12,4,Urban
+169671,Multivehicle Crash,I-40,Westbound,Milepost,376,8/5/2017 9:09,33,2,18,3,Urban
+169713,Multivehicle Crash,I-40,Eastbound,Milepost,381,8/5/2017 19:33,24,2,7,5,Urban
+169751,Single Vehicle Crash,I-40,Eastbound,Milepost,402,8/6/2017 17:21,10,0,0,0,Urban
+169768,Multivehicle Crash,I-40,Eastbound,Milepost,383,8/6/2017 22:03,124,1,14,1,Urban
+169769,Single Vehicle Crash,I-81,Southbound,Milepost,72,8/6/2017 22:22,223,2,222,1,Rural
+169770,Multivehicle Crash,I-40,Eastbound,Milepost,347,8/6/2017 23:38,163,3,162,2,Rural
+169777,Multivehicle Crash,I-75,Southbound,Milepost,108,8/7/2017 7:26,71,1,6,5,Urban
+169788,Multivehicle Crash,I-40,Westbound,Milepost,406,8/7/2017 9:12,43,1,2,7,Rural
+169792,Single Vehicle Crash,I-81,Southbound,Milepost,56,8/7/2017 9:24,18,1,13,N/A,Rural
+169799,Single Vehicle Crash,I-640,Westbound,Milepost,8,8/7/2017 11:12,10,0,0,0,Urban
+169802,Single Vehicle Crash,I-40,Eastbound,Milepost,388,8/7/2017 11:48,46,0,0,8,Urban
+169848,Single Vehicle Crash,I-75,Southbound,Milepost,117,8/7/2017 17:41,19,0,0,10,Urban
+169854,Single Vehicle Crash,I-40,Westbound,Milepost,391,8/7/2017 18:47,29,1,24,1,Urban
+169855,Multivehicle Crash,I-40,Eastbound,Milepost,375,8/7/2017 19:13,14,0,0,1,Urban
+169859,Single Vehicle Crash,I-640,Eastbound,Milepost,0,8/7/2017 19:29,6,0,0,0,Urban
+169860,Single Vehicle Crash,I-640,Westbound,Milepost,0,8/7/2017 19:31,57,1,20,0,Urban
+169861,Single Vehicle Crash,I-40,Eastbound,Milepost,347,8/7/2017 21:41,75,1,74,N/A,Rural
+169862,Single Vehicle Crash,I-40,Eastbound,Milepost,382,8/7/2017 22:49,25,1,24,4,Urban
+169863,Single Vehicle Crash,I-40,Eastbound,Milepost,383,8/7/2017 23:05,46,1,45,1,Urban
+169881,Multivehicle Crash,I-40,Eastbound,Milepost,393,8/8/2017 9:51,49,2,33,0,Urban
+169917,Multivehicle Crash,I-40,Eastbound,Milepost,378,8/8/2017 15:56,133,1,24,5,Urban
+169941,Single Vehicle Crash,I-40,Westbound,Milepost,424,8/9/2017 3:22,16,1,15,N/A,Rural
+169989,Multivehicle Crash,I-40,Westbound,Milepost,372,8/9/2017 16:56,67,0,0,0,Urban
+170039,Single Vehicle Crash,I-640,Westbound,Milepost,10,8/10/2017 9:59,43,0,0,3,Urban
+170072,Multivehicle Crash,I-40,Eastbound,Milepost,379,8/10/2017 17:32,42,0,0,0,Urban
+170073,Multivehicle Crash,I-640,Eastbound,Milepost,5,8/10/2017 17:41,44,1,9,3,Urban
+170080,Single Vehicle Crash,I-75,Southbound,Milepost,141,8/10/2017 18:43,73,0,0,53,Rural
+170096,Single Vehicle Crash,I-40,Westbound,Milepost,350,8/11/2017 0:51,6,1,4,N/A,Rural
+170097,Multivehicle Crash,I-40,Westbound,Milepost,357,8/11/2017 1:03,53,1,39,N/A,Rural
+170124,Single Vehicle Crash,I-40,Westbound,Milepost,344,8/11/2017 11:20,142,1,60,N/A,Rural
+170139,Multivehicle Crash,I-40,Westbound,Milepost,435,8/11/2017 15:28,30,1,29,N/A,Rural
+170140,Multivehicle Crash,I-40,Eastbound,Milepost,383,8/11/2017 15:33,42,0,0,0,Urban
+170141,Multivehicle Crash,I-75,Northbound,Milepost,108,8/11/2017 15:34,49,0,0,26,Urban
+170145,Multivehicle Crash,I-81,Northbound,Milepost,4,8/11/2017 16:33,7,1,5,N/A,Rural
+170150,Multivehicle Crash,I-40,Eastbound,Milepost,398,8/11/2017 18:08,80,0,0,4,Urban
+170152,Multivehicle Crash,I-26,Westbound,Milepost,46,8/11/2017 18:13,61,1,61,N/A,Rural
+170160,Single Vehicle Crash,I-40,Eastbound,Milepost,365,8/12/2017 2:24,106,0,0,26,Rural
+170164,Single Vehicle Crash,I-40,Eastbound,Milepost,382,8/12/2017 7:19,57,1,53,3,Urban
+170165,Single Vehicle Crash,I-40,Eastbound,Milepost,375,8/12/2017 7:45,58,0,0,3,Urban
+170169,Single Vehicle Crash,I-40,Westbound,Milepost,389,8/12/2017 8:30,668,2,644,2,Urban
+170189,Multivehicle Crash,I-40,Westbound,Milepost,370,8/12/2017 14:36,139,2,45,6,Urban
+170195,Multivehicle Crash,I-275,Southbound,Milepost,1,8/12/2017 15:25,40,2,38,2,Urban
+170208,Multivehicle Crash,I-40,Westbound,Milepost,390,8/12/2017 17:00,82,0,0,22,Urban
+170215,Multivehicle Crash,I-40,Westbound,Milepost,389,8/12/2017 17:58,31,0,0,1,Urban
+170286,Multivehicle Crash,I-81,Northbound,Milepost,52,8/14/2017 0:34,89,1,86,N/A,Rural
+170289,Single Vehicle Crash,I-40,Eastbound,Milepost,432,8/14/2017 5:48,86,1,86,N/A,Rural
+170299,Multivehicle Crash,I-75,Southbound,Milepost,108,8/14/2017 7:27,90,1,15,7,Urban
+170300,Multivehicle Crash,I-40,Westbound,Milepost,389,8/14/2017 7:30,53,0,0,0,Urban
+170327,Multivehicle Crash,I-40,Westbound,Milepost,373,8/14/2017 12:15,65,0,0,1,Urban
+170343,Multivehicle Crash,I-40,Eastbound,Milepost,384,8/14/2017 14:15,33,0,0,N/A,Urban
+170366,Multivehicle Crash,I-40,Eastbound,Milepost,383,8/14/2017 17:23,40,1,9,4,Urban
+170367,Multivehicle Crash,I-40,Westbound,Milepost,387,8/14/2017 17:30,32,1,1,0,Urban
+170386,Multivehicle Crash,I-40,Westbound,Milepost,380,8/15/2017 7:45,54,0,0,0,Urban
+170387,Multivehicle Crash,I-40,Westbound,Milepost,380,8/15/2017 8:01,47,1,14,2,Urban
+170389,Multivehicle Crash,I-640,Westbound,Milepost,1,8/15/2017 8:14,39,0,0,14,Urban
+170432,Multivehicle Crash,I-40,Westbound,Milepost,382,8/15/2017 16:57,46,0,0,16,Urban
+170437,Single Vehicle Crash,I-40,Eastbound,Milepost,380,8/15/2017 18:15,79,0,0,0,Urban
+170470,Multivehicle Crash,I-40,Westbound,Milepost,391,8/16/2017 7:31,74,0,0,0,Urban
+170481,Multivehicle Crash,I-40,Westbound,Milepost,378,8/16/2017 8:54,76,0,0,1,Urban
+170506,Vehicle Fire,I-40,Eastbound,Milepost,390,8/16/2017 12:32,31,2,24,1,Urban
+170520,Multivehicle Crash,I-40,Westbound,Milepost,370,8/16/2017 15:31,3,0,0,N/A,Urban
+170524,Multivehicle Crash,I-40,Westbound,Milepost,410,8/16/2017 16:08,36,2,11,N/A,Rural
+170533,Multivehicle Crash,I-640,Westbound,Milepost,1,8/16/2017 17:43,69,2,15,11,Urban
+170550,Multivehicle Crash,I-75,Southbound,Milepost,113,8/16/2017 21:26,143,0,0,N/A,Urban
+170564,Multivehicle Crash,I-40,Westbound,Milepost,390,8/17/2017 7:50,26,1,3,7,Urban
+170568,Multivehicle Crash,I-40,Eastbound,Milepost,367,8/17/2017 8:33,84,1,67,3,Rural
+170572,Multivehicle Crash,I-140,Westbound,Milepost,2,8/17/2017 9:24,85,0,0,0,Urban
+170607,Multivehicle Crash,I-40,Eastbound,Milepost,372,8/17/2017 15:16,157,0,0,0,Urban
+170610,Multivehicle Crash,I-75,Northbound,Milepost,111,8/17/2017 15:45,58,0,0,0,Urban
+170611,Multivehicle Crash,I-40,Eastbound,Milepost,370,8/17/2017 16:13,47,0,0,2,Urban
+170612,Single Vehicle Crash,I-40,Eastbound,Milepost,371,8/17/2017 16:14,55,0,0,4,Urban
+170639,Single Vehicle Crash,I-40,Eastbound,Milepost,426,8/17/2017 22:37,46,1,44,N/A,Rural
+170672,Multivehicle Crash,I-40,Westbound,Milepost,382,8/18/2017 9:58,57,1,4,1,Urban
+170695,Multivehicle Crash,I-40,Eastbound,Milepost,395,8/18/2017 14:54,86,1,0,5,Urban
+170698,Multivehicle Crash,I-40,Eastbound,Milepost,389,8/18/2017 15:11,17,0,0,3,Urban
+170716,Multivehicle Crash,I-40,Westbound,Milepost,384,8/18/2017 17:02,12,0,0,8,Urban
+170717,Multivehicle Crash,I-40,Eastbound,Milepost,370,8/18/2017 17:05,60,0,0,2,Urban
+170725,Multivehicle Crash,I-40,Eastbound,Milepost,370,8/18/2017 18:32,5,0,0,0,Urban
+170738,Multivehicle Crash,I-75,Southbound,Milepost,82,8/18/2017 23:24,59,1,58,24,Rural
+170739,Single Vehicle Crash,I-26,Eastbound,Milepost,30,8/19/2017 1:56,108,1,103,5,Rural
+170740,Single Vehicle Crash,I-40,Eastbound,Milepost,440,8/19/2017 2:09,95,1,94,N/A,Rural
+170755,Vehicle Fire,I-640,Eastbound,Milepost,10,8/19/2017 10:29,57,2,23,4,Urban
+170786,Vehicle Fire,I-640,Westbound,Milepost,10,8/19/2017 14:55,276,1,81,4,Urban
+170803,Single Vehicle Crash,I-40,Eastbound,Milepost,380,8/19/2017 18:31,45,0,0,10,Urban
+170828,Multivehicle Crash,I-40,Westbound,Milepost,389,8/20/2017 14:19,73,1,4,2,Urban
+170858,Single Vehicle Crash,I-75,Southbound,Milepost,136,8/20/2017 19:32,90,1,84,N/A,Rural
+170862,Overturned Vehicle,I-75,Northbound,Milepost,146,8/20/2017 20:44,84,1,79,72,Rural
+170879,Multivehicle Crash,I-40,Westbound,Milepost,390,8/21/2017 8:17,52,1,6,9,Urban
+170892,Multivehicle Crash,I-40,Westbound,Milepost,384,8/21/2017 9:27,27,0,0,6,Urban
+170895,Multivehicle Crash,I-40,Westbound,Milepost,379,8/21/2017 9:49,33,0,0,0,Urban
+170899,Multivehicle Crash,I-40,Westbound,Milepost,402,8/21/2017 10:34,74,1,40,0,Urban
+170902,Multivehicle Crash,I-40,Westbound,Milepost,379,8/21/2017 10:52,40,0,0,5,Urban
+170909,Multivehicle Crash,I-40,Westbound,Milepost,379,8/21/2017 11:29,48,0,0,1,Urban
+170930,Overturned Vehicle,I-40,Westbound,Milepost,421,8/21/2017 14:04,213,0,0,3,Rural
+170940,Multivehicle Crash,I-40,Eastbound,Milepost,393,8/21/2017 15:15,118,2,23,3,Urban
+170946,Multivehicle Crash,I-40,Eastbound,Milepost,373,8/21/2017 16:02,62,1,26,1,Urban
+170956,Multivehicle Crash,I-75,Northbound,Milepost,83,8/21/2017 17:06,41,0,0,0,Rural
+170961,Multivehicle Crash,I-40,Eastbound,Milepost,378,8/21/2017 17:36,17,0,0,17,Urban
+170962,Multivehicle Crash,I-40,Eastbound,Milepost,395,8/21/2017 17:39,3,0,0,0,Urban
+170964,Multivehicle Crash,I-40,Eastbound,Milepost,371,8/21/2017 17:54,8,0,0,0,Urban
+170990,Multivehicle Crash,I-40,Eastbound,Milepost,403,8/22/2017 9:57,16,0,0,0,Urban
+171008,Multivehicle Crash,I-40,Eastbound,Milepost,369,8/22/2017 12:56,12,0,0,5,Urban
+171012,Single Vehicle Crash,I-40,Eastbound,Milepost,365,8/22/2017 14:05,94,0,0,1,Rural
+171022,Multivehicle Crash,I-640,Eastbound,Milepost,3,8/22/2017 15:53,20,1,2,4,Urban
+171023,Multivehicle Crash,I-40,Eastbound,Milepost,369,8/22/2017 15:57,41,0,0,0,Urban
+171034,Multivehicle Crash,I-40,Eastbound,Milepost,387,8/22/2017 18:09,63,3,39,7,Urban
+171035,Vehicle Fire,I-81,Southbound,Milepost,52,8/22/2017 18:22,22,1,21,N/A,Rural
+171052,Vehicle Fire,I-40,Eastbound,Milepost,369,8/23/2017 3:16,102,1,33,1,Urban
+171059,Multivehicle Crash,I-40,Westbound,Milepost,382,8/23/2017 7:44,109,0,0,6,Urban
+171060,Multivehicle Crash,I-40,Westbound,Milepost,388,8/23/2017 7:49,51,1,1,14,Urban
+171094,Single Vehicle Crash,I-40,Eastbound,Milepost,370,8/23/2017 16:23,73,2,23,1,Urban
+171121,Multivehicle Crash,I-75,Northbound,Milepost,112,8/23/2017 22:17,146,2,117,0,Urban
+171157,Single Vehicle Crash,I-40,Eastbound,Milepost,394,8/24/2017 13:57,49,0,0,20,Urban
+171172,Multivehicle Crash,I-40,Eastbound,Milepost,379,8/24/2017 17:09,17,0,0,0,Urban
+171173,Multivehicle Crash,I-40,Westbound,Milepost,382,8/24/2017 17:21,30,0,0,N/A,Urban
+171175,Multivehicle Crash,I-140,Eastbound,Milepost,1,8/24/2017 17:39,68,1,15,7,Urban
+171176,Multivehicle Crash,I-40,Eastbound,Milepost,381,8/24/2017 18:39,30,0,0,9,Urban
+171178,Multivehicle Crash,I-75,Southbound,Milepost,108,8/24/2017 19:26,180,2,98,3,Urban
+171240,Multivehicle Crash,I-40,Westbound,Milepost,375,8/25/2017 15:33,63,1,49,5,Urban
+171254,Single Vehicle Crash,I-40,Westbound,Milepost,407,8/25/2017 18:58,7,0,0,0,Rural
+171263,Overturned Vehicle,I-275,Southbound,Milepost,1,8/26/2017 3:02,50,2,49,1,Urban
+171265,Single Vehicle Crash,I-75,Northbound,Milepost,109,8/26/2017 6:46,44,2,42,4,Urban
+171276,Multivehicle Crash,I-40,Westbound,Milepost,378,8/26/2017 10:17,56,0,0,6,Urban
+171299,Multivehicle Crash,I-640,Westbound,Milepost,6,8/26/2017 14:40,55,1,19,0,Urban
+171326,Vehicle Fire,I-40,Westbound,Milepost,384,8/26/2017 22:41,27,1,17,15,Urban
+171351,Multivehicle Crash,I-40,Westbound,Milepost,369,8/27/2017 15:05,124,2,16,9,Urban
+171356,Single Vehicle Crash,I-40,Eastbound,Milepost,385,8/27/2017 16:18,27,0,0,0,Urban
+171364,Multivehicle Crash,I-40,Westbound,Milepost,373,8/27/2017 17:41,33,0,0,2,Urban
+171480,Single Vehicle Crash,I-40,Westbound,Milepost,387,8/29/2017 8:37,42,0,0,0,Urban
+171496,Single Vehicle Crash,I-40,Eastbound,Milepost,390,8/29/2017 10:53,90,0,0,12,Urban
+171505,Multivehicle Crash,I-75,Northbound,Milepost,65,8/29/2017 12:50,22,1,20,1,Rural
+171517,Multivehicle Crash,I-40,Eastbound,Milepost,381,8/29/2017 15:49,33,0,0,0,Urban
+171532,Multivehicle Crash,I-140,Westbound,Milepost,0,8/30/2017 7:33,61,1,2,1,Urban
+171534,Multivehicle Crash,I-40,Eastbound,Milepost,378,8/30/2017 8:29,38,1,5,3,Urban
+171536,Multivehicle Crash,I-75,Southbound,Milepost,108,8/30/2017 8:39,40,1,9,0,Urban
+171562,Multivehicle Crash,I-40,Eastbound,Milepost,380,8/30/2017 13:06,27,0,0,0,Urban
+171571,Single Vehicle Crash,I-140,Westbound,Milepost,1,8/30/2017 14:44,113,0,0,6,Urban
+171582,Multivehicle Crash,I-75,Northbound,Milepost,108,8/30/2017 15:58,117,0,0,0,Urban
+171591,Multivehicle Crash,I-140,Westbound,Milepost,0,8/30/2017 17:45,65,1,11,5,Urban
+171597,Single Vehicle Crash,I-40,Eastbound,Milepost,420,8/31/2017 3:17,224,1,206,1,Rural
+171599,Single Vehicle Crash,I-640,Eastbound,Milepost,1,8/31/2017 6:34,23,0,0,4,Urban
+171642,Multivehicle Crash,I-75,Northbound,Milepost,77,8/31/2017 15:29,80,1,69,26,Rural
+171648,Single Vehicle Crash,I-40,Westbound,Milepost,393,8/31/2017 16:44,64,0,0,0,Urban
+171649,Multivehicle Crash,I-140,Eastbound,Milepost,0,8/31/2017 16:52,33,2,27,6,Urban
+171650,Multivehicle Crash,I-140,Westbound,Milepost,0,8/31/2017 17:18,80,1,12,3,Urban
+171664,Overturned Vehicle,I-40,Westbound,Milepost,343,9/1/2017 1:25,67,1,65,N/A,Rural
+171667,Single Vehicle Crash,I-40,Westbound,Milepost,341,9/1/2017 6:02,32,1,30,N/A,Rural
+171671,Single Vehicle Crash,I-640,Westbound,Milepost,2,9/1/2017 7:27,74,0,0,1,Urban
+171673,Multivehicle Crash,I-40,Eastbound,Milepost,378,9/1/2017 8:00,77,0,0,0,Urban
+171682,Single Vehicle Crash,I-40,Westbound,Milepost,389,9/1/2017 9:52,50,1,8,1,Urban
+171683,Single Vehicle Crash,I-40,Westbound,Milepost,385,9/1/2017 9:57,37,1,15,6,Urban
+171715,Vehicle Fire,I-40,Eastbound,Milepost,400,9/1/2017 15:41,130,1,125,0,Urban
+171721,Single Vehicle Crash,I-640,Westbound,Milepost,2,9/1/2017 16:28,45,1,0,0,Urban
+171725,Multivehicle Crash,I-40,Eastbound,Milepost,377,9/1/2017 17:26,177,2,1,6,Urban
+171733,Multivehicle Crash,I-40,Westbound,Milepost,381,9/1/2017 18:40,183,0,0,6,Urban
+171734,Multivehicle Crash,I-40,Westbound,Milepost,381,9/1/2017 18:48,84,0,0,N/A,Urban
+171735,Multivehicle Crash,I-275,Northbound,Milepost,1,9/1/2017 19:30,53,1,42,7,Urban
+171736,Vehicle Fire,I-40,Westbound,Milepost,410,9/1/2017 20:54,51,1,50,N/A,Rural
+171737,Single Vehicle Crash,I-40,Eastbound,Milepost,345,9/1/2017 21:43,46,1,44,N/A,Rural
+171738,Single Vehicle Crash,I-40,Westbound,Milepost,390,9/2/2017 4:07,77,3,75,3,Urban
+171748,Single Vehicle Crash,I-40,Westbound,Milepost,383,9/2/2017 10:14,1640,0,0,13,Urban
+171777,Single Vehicle Crash,I-40,Westbound,Milepost,415,9/2/2017 16:09,38,1,30,N/A,Rural
+171783,Single Vehicle Crash,I-140,Eastbound,Milepost,0,9/2/2017 16:49,73,1,17,9,Urban
+171790,Single Vehicle Crash,I-640,Westbound,Milepost,4,9/2/2017 17:54,35,1,34,0,Urban
+171832,Multivehicle Crash,I-40,Eastbound,Milepost,358,9/3/2017 15:28,10,1,4,N/A,Rural
+171878,Multivehicle Crash,I-40,Westbound,Milepost,372,9/4/2017 10:38,31,0,0,3,Urban
+171927,Multivehicle Crash,I-275,Southbound,Milepost,1,9/5/2017 6:58,55,0,0,6,Urban
+171951,Single Vehicle Crash,I-40,Eastbound,Milepost,383,9/5/2017 10:33,55,1,16,6,Urban
+171957,Single Vehicle Crash,I-40,Eastbound,Milepost,385,9/5/2017 10:58,14,1,13,0,Urban
+171972,Single Vehicle Crash,I-640,Westbound,Milepost,3,9/5/2017 13:55,35,2,18,3,Urban
+171973,Multivehicle Crash,I-640,Westbound,Milepost,6,9/5/2017 14:27,33,1,31,11,Urban
+171976,Single Vehicle Crash,I-40,Westbound,Milepost,383,9/5/2017 15:19,12,0,0,N/A,Urban
+171980,Single Vehicle Crash,I-75,Northbound,Milepost,114,9/5/2017 15:51,8,0,0,0,Urban
+171981,Multivehicle Crash,I-40,Westbound,Milepost,387,9/5/2017 16:06,1043,1,0,39,Urban
+171983,Single Vehicle Crash,I-75,Northbound,Milepost,158,9/5/2017 16:39,60,1,59,N/A,Rural
+171985,Multivehicle Crash,I-40,Eastbound,Milepost,440,9/5/2017 16:48,51,1,50,N/A,Rural
+171986,Single Vehicle Crash,I-640,Westbound,Milepost,1,9/5/2017 17:02,50,1,15,4,Urban
+171991,Single Vehicle Crash,I-275,Southbound,Milepost,1,9/5/2017 18:15,28,0,0,5,Urban
+171995,Single Vehicle Crash,I-40,Westbound,Milepost,381,9/5/2017 20:54,27,0,0,0,Urban
+172002,Multivehicle Crash,I-40,Eastbound,Milepost,342,9/6/2017 7:34,12,1,6,4,Rural
+172005,Multivehicle Crash,I-75,Southbound,Milepost,109,9/6/2017 7:47,37,1,6,8,Urban
+172042,Multivehicle Crash,I-40,Eastbound,Milepost,380,9/6/2017 15:48,55,2,52,5,Urban
+172048,Multivehicle Crash,I-140,Eastbound,Milepost,4,9/6/2017 16:47,69,1,22,10,Urban
+172076,Multivehicle Crash,I-75,Southbound,Milepost,111,9/7/2017 8:08,12,1,5,3,Urban
+172077,Single Vehicle Crash,I-26,Westbound,Milepost,6,9/7/2017 8:23,46,2,43,7,Rural
+172079,Multivehicle Crash,I-40,Eastbound,Milepost,369,9/7/2017 8:49,55,0,0,0,Urban
+172080,Multivehicle Crash,I-640,Westbound,Milepost,1,9/7/2017 8:57,57,2,41,9,Urban
+172101,Multivehicle Crash,I-640,Eastbound,Milepost,3,9/7/2017 14:37,29,0,0,0,Urban
+172105,Single Vehicle Crash,I-26,Westbound,Milepost,52,9/7/2017 15:55,132,2,133,N/A,Rural
+172112,Multivehicle Crash,I-640,Eastbound,Milepost,6,9/7/2017 16:58,77,2,67,4,Urban
+172116,Multivehicle Crash,I-40,Eastbound,Milepost,375,9/7/2017 17:46,51,1,46,2,Urban
+172131,Multivehicle Crash,I-40,Eastbound,Milepost,385,9/8/2017 7:41,112,0,0,0,Urban
+172132,Single Vehicle Crash,I-40,Westbound,Milepost,381,9/8/2017 7:49,111,2,15,2,Urban
+172141,Multivehicle Crash,I-40,Westbound,Milepost,381,9/8/2017 9:02,50,1,5,0,Urban
+172143,Multivehicle Crash,I-40,Westbound,Milepost,384,9/8/2017 9:25,77,0,0,0,Urban
+172146,Multivehicle Crash,I-40,Westbound,Milepost,383,9/8/2017 9:36,42,0,0,0,Urban
+172157,Single Vehicle Crash,I-40,Eastbound,Milepost,405,9/8/2017 11:53,42,1,21,8,Urban
+172160,Multivehicle Crash,I-640,Eastbound,Milepost,2,9/8/2017 12:48,77,2,50,1,Urban
+172173,Single Vehicle Crash,I-40,Eastbound,Milepost,411,9/8/2017 15:30,86,0,0,13,Rural
+172185,Multivehicle Crash,I-40,Westbound,Milepost,373,9/8/2017 17:01,80,2,54,1,Urban
+172197,Multivehicle Crash,I-40,Westbound,Milepost,382,9/9/2017 1:20,32,2,32,6,Urban
+172200,Overturned Vehicle,I-75,Northbound,Milepost,76,9/9/2017 5:54,81,1,79,N/A,Rural
+172235,Multivehicle Crash,I-75,Southbound,Milepost,112,9/9/2017 15:11,64,0,0,0,Urban
+172312,Multivehicle Crash,I-640,Westbound,Milepost,1,9/11/2017 7:55,133,1,4,1,Urban
+172356,Single Vehicle Crash,I-275,Southbound,Milepost,0,9/11/2017 14:53,29,0,0,1,Urban
+172373,Multivehicle Crash,I-640,Eastbound,Milepost,1,9/11/2017 18:34,60,0,0,2,Urban
+172374,Single Vehicle Crash,I-75,Northbound,Milepost,108,9/11/2017 19:03,38,0,0,0,Urban
+172376,Multivehicle Crash,I-640,Eastbound,Milepost,6,9/11/2017 19:17,99,0,0,1,Urban
+172379,Single Vehicle Crash,I-640,Eastbound,Milepost,1,9/11/2017 22:18,44,0,0,1,Urban
+172380,Multivehicle Crash,I-40,Westbound,Milepost,388,9/11/2017 23:41,34,1,19,32,Urban
+172381,Single Vehicle Crash,I-40,Westbound,Milepost,378,9/12/2017 2:29,71,0,0,1,Urban
+172384,Vehicle Fire,I-40,Eastbound,Milepost,387,9/12/2017 6:26,281,1,40,2,Urban
+172388,Multivehicle Crash,I-40,Eastbound,Milepost,384,9/12/2017 7:59,24,0,0,22,Urban
+172423,Vehicle Fire,I-81,Northbound,Milepost,33,9/12/2017 18:07,863,2,859,53,Rural
+172441,Multivehicle Crash,I-75,Southbound,Milepost,108,9/13/2017 6:48,65,0,0,0,Urban
+172443,Multivehicle Crash,I-640,Westbound,Milepost,0,9/13/2017 7:38,49,0,0,0,Urban
+172447,Vehicle Fire,I-40,Westbound,Milepost,422,9/13/2017 7:59,15,0,0,N/A,Rural
+172478,Multivehicle Crash,I-40,Westbound,Milepost,379,9/13/2017 14:19,43,2,41,3,Urban
+172482,Single Vehicle Crash,I-40,Eastbound,Milepost,342,9/13/2017 15:21,212,1,188,5,Rural
+172489,Multivehicle Crash,I-40,Eastbound,Milepost,382,9/13/2017 17:47,21,0,0,0,Urban
+172491,Multivehicle Crash,I-275,Southbound,Milepost,1,9/13/2017 18:28,61,1,33,2,Urban
+172508,Multivehicle Crash,I-640,Westbound,Milepost,6,9/14/2017 7:13,75,2,9,9,Urban
+172557,Multivehicle Crash,I-640,Eastbound,Milepost,2,9/14/2017 16:58,57,1,18,8,Urban
+172561,Multivehicle Crash,I-75,Northbound,Milepost,108,9/14/2017 17:49,47,0,0,0,Urban
+172612,Multivehicle Crash,I-40,Eastbound,Milepost,375,9/15/2017 14:06,16,0,0,0,Urban
+172620,Multivehicle Crash,I-40,Westbound,Milepost,374,9/15/2017 15:24,53,1,51,2,Urban
+172621,Multivehicle Crash,I-40,Eastbound,Milepost,393,9/15/2017 15:28,38,0,0,23,Urban
+172630,Multivehicle Crash,I-40,Eastbound,Milepost,373,9/15/2017 16:20,45,0,0,0,Urban
+172635,Multivehicle Crash,I-40,Eastbound,Milepost,395,9/15/2017 17:04,67,0,0,4,Urban
+172646,Multivehicle Crash,I-40,Westbound,Milepost,376,9/15/2017 18:26,22,0,0,0,Urban
+172650,Multivehicle Crash,I-75,Northbound,Milepost,110,9/15/2017 19:22,35,0,0,0,Urban
+172709,Multivehicle Crash,I-40,Westbound,Milepost,374,9/16/2017 16:49,35,0,0,0,Urban
+172711,Single Vehicle Crash,I-40,Westbound,Milepost,378,9/16/2017 17:00,22,0,0,1,Urban
+172758,Multivehicle Crash,I-40,Eastbound,Milepost,384,9/17/2017 16:47,53,0,0,0,Urban
+172790,Multivehicle Crash,I-640,Westbound,Milepost,5,9/18/2017 7:40,73,0,0,0,Urban
+172793,Multivehicle Crash,I-40,Westbound,Milepost,380,9/18/2017 7:52,51,0,0,0,Urban
+172817,Multivehicle Crash,I-75,Southbound,Milepost,63,9/18/2017 11:22,26,1,25,N/A,Rural
+172822,Multivehicle Crash,I-40,Eastbound,Milepost,392,9/18/2017 11:33,45,1,8,4,Urban
+172852,Overturned Vehicle,I-40,Eastbound,Milepost,432,9/18/2017 17:11,40,2,36,N/A,Rural
+172866,Multivehicle Crash,I-40,Westbound,Milepost,381,9/19/2017 7:36,46,1,7,1,Urban
+172899,Multivehicle Crash,I-40,Eastbound,Milepost,380,9/19/2017 15:17,27,0,0,0,Urban
+172900,Vehicle Fire,I-40,Westbound,Milepost,376,9/19/2017 15:36,55,1,54,0,Urban
+172905,Multivehicle Crash,I-140,Westbound,Milepost,1,9/19/2017 17:33,33,1,4,20,Urban
+172908,Multivehicle Crash,I-140,Westbound,Milepost,3,9/19/2017 18:06,63,1,26,0,Urban
+172909,Multivehicle Crash,I-75,Northbound,Milepost,109,9/19/2017 18:18,62,0,0,0,Urban
+172911,Multivehicle Crash,I-40,Eastbound,Milepost,388,9/19/2017 18:30,50,2,48,9,Urban
+172915,Multivehicle Crash,I-40,Eastbound,Milepost,387,9/19/2017 19:18,150,1,3,60,Urban
+172930,Multivehicle Crash,I-40,Eastbound,Milepost,379,9/20/2017 8:01,32,0,0,1,Urban
+172944,Single Vehicle Crash,I-81,Southbound,Milepost,59,9/20/2017 12:53,57,1,52,N/A,Rural
+172980,Multivehicle Crash,I-26,Eastbound,Milepost,14,9/21/2017 8:03,21,1,18,N/A,Rural
+172996,Multivehicle Crash,I-75,Southbound,Milepost,135,9/21/2017 12:24,15,2,12,N/A,Rural
+173002,Single Vehicle Crash,I-75,Northbound,Milepost,121,9/21/2017 13:25,43,1,30,12,Rural
+173018,Multivehicle Crash,I-40,Eastbound,Milepost,390,9/21/2017 16:32,76,2,29,6,Urban
+173031,Multivehicle Crash,I-75,Northbound,Milepost,122,9/21/2017 20:04,60,2,56,23,Rural
+173032,Single Vehicle Crash,I-40,Eastbound,Milepost,379,9/21/2017 20:44,20,0,0,3,Urban
+173035,Single Vehicle Crash,I-40,Eastbound,Milepost,376,9/21/2017 21:38,111,0,0,0,Urban
+173038,Multivehicle Crash,I-40,Eastbound,Milepost,425,9/21/2017 22:49,45,2,43,N/A,Rural
+173039,Multivehicle Crash,I-75,Southbound,Milepost,112,9/22/2017 1:00,94,1,93,N/A,Urban
+173040,Single Vehicle Crash,I-640,Eastbound,Milepost,3,9/22/2017 2:30,4,1,2,N/A,Urban
+173053,Multivehicle Crash,I-640,Westbound,Milepost,0,9/22/2017 7:43,48,0,0,0,Urban
+173065,Multivehicle Crash,I-40,Eastbound,Milepost,375,9/22/2017 9:52,5,0,0,0,Urban
+173066,Single Vehicle Crash,I-40,Westbound,Milepost,393,9/22/2017 9:53,86,0,0,1,Urban
+173090,Multivehicle Crash,I-40,Eastbound,Milepost,368,9/22/2017 16:02,38,0,0,0,Urban
+173091,Multivehicle Crash,I-40,Westbound,Milepost,387,9/22/2017 16:20,24,1,18,0,Urban
+173092,Multivehicle Crash,I-40,Eastbound,Milepost,388,9/22/2017 16:22,49,1,47,22,Urban
+173094,Multivehicle Crash,I-40,Westbound,Milepost,377,9/22/2017 16:40,68,1,5,2,Urban
+173097,Multivehicle Crash,I-40,Westbound,Milepost,404,9/22/2017 17:15,43,1,15,0,Urban
+173110,Multivehicle Crash,I-40,Westbound,Milepost,355,9/22/2017 19:54,119,2,117,N/A,Rural
+173114,Vehicle Fire,I-40,Westbound,Milepost,382,9/23/2017 0:20,47,1,37,1,Urban
+173134,Multivehicle Crash,I-40,Eastbound,Milepost,356,9/23/2017 12:30,87,1,84,N/A,Rural
+173189,Multivehicle Crash,I-275,Southbound,Milepost,1,9/24/2017 16:37,69,2,5,2,Urban
+173200,Multivehicle Crash,I-40,Eastbound,Milepost,350,9/24/2017 19:43,26,1,24,N/A,Urban
+173214,Multivehicle Crash,I-40,Eastbound,Milepost,384,9/25/2017 7:35,61,0,0,0,Urban
+173216,Multivehicle Crash,I-75,Southbound,Milepost,130,9/25/2017 7:43,69,1,67,N/A,Rural
+173225,Multivehicle Crash,I-40,Eastbound,Milepost,383,9/25/2017 8:54,42,0,0,7,Urban
+173229,Multivehicle Crash,I-40,Eastbound,Milepost,382,9/25/2017 9:08,14,0,0,0,Urban
+173271,Single Vehicle Crash,I-40,Eastbound,Milepost,379,9/25/2017 16:49,5,0,0,0,Urban
+173276,Multivehicle Crash,I-40,Eastbound,Milepost,376,9/25/2017 17:57,17,0,0,0,Urban
+173279,Multivehicle Crash,I-40,Eastbound,Milepost,384,9/25/2017 18:10,14,1,4,0,Urban
+173287,Overturned Vehicle,I-81,Northbound,Milepost,44,9/25/2017 20:46,109,2,108,68,Rural
+173288,Multivehicle Crash,I-40,Westbound,Milepost,395,9/25/2017 20:51,92,2,83,4,Urban
+173295,Multivehicle Crash,I-40,Westbound,Milepost,384,9/26/2017 7:31,35,0,0,0,Urban
+173299,Multivehicle Crash,I-640,Westbound,Milepost,0,9/26/2017 8:20,65,1,3,0,Urban
+173325,Single Vehicle Crash,I-40,Eastbound,Milepost,440,9/26/2017 14:07,48,2,43,33,Rural
+173330,Multivehicle Crash,I-40,Eastbound,Milepost,387,9/26/2017 15:06,38,0,0,0,Urban
+173381,Overturned Vehicle,I-81,Southbound,Milepost,67,9/27/2017 12:17,83,1,81,1,Rural
+173404,Multivehicle Crash,I-40,Eastbound,Milepost,390,9/27/2017 16:56,43,0,0,0,Urban
+173408,Vehicle Fire,I-40,Westbound,Milepost,374,9/27/2017 17:59,39,0,0,2,Urban
+173411,Multivehicle Crash,I-40,Eastbound,Milepost,373,9/27/2017 18:30,43,0,0,0,Urban
+173440,Multivehicle Crash,I-75,Southbound,Milepost,111,9/28/2017 8:05,12,0,0,N/A,Urban
+173444,Multivehicle Crash,I-40,Westbound,Milepost,387,9/28/2017 9:02,100,2,31,2,Urban
+173459,Overturned Vehicle,I-40,Eastbound,Milepost,347,9/28/2017 14:11,355,2,27,33,Rural
+173467,Single Vehicle Crash,I-26,Eastbound,Milepost,23,9/28/2017 15:22,35,1,34,N/A,Rural
+173468,Multivehicle Crash,I-75,Northbound,Milepost,138,9/28/2017 15:30,21,1,21,N/A,Rural
+173483,Multivehicle Crash,I-40,Eastbound,Milepost,379,9/28/2017 17:44,15,0,0,0,Urban
+173484,Multivehicle Crash,I-40,Westbound,Milepost,387,9/28/2017 17:59,15,0,0,0,Urban
+173499,Single Vehicle Crash,I-140,Eastbound,Milepost,1,9/28/2017 23:50,55,1,55,1,Urban
+173556,Multivehicle Crash,I-40,Eastbound,Milepost,369,9/29/2017 17:34,110,1,110,1,Urban
+173558,Multivehicle Crash,I-40,Westbound,Milepost,377,9/29/2017 18:22,53,2,10,0,Urban
+173562,Multivehicle Crash,I-40,Westbound,Milepost,375,9/29/2017 19:08,54,0,0,0,Urban
+173567,Single Vehicle Crash,I-40,Eastbound,Milepost,367,9/29/2017 19:59,79,0,0,8,Rural
+173568,Multivehicle Crash,I-40,Westbound,Milepost,371,9/29/2017 20:15,23,0,0,0,Urban
+173600,Single Vehicle Crash,I-75,Southbound,Milepost,84,9/30/2017 12:07,137,0,0,0,Rural
+173608,Multivehicle Crash,I-75,Northbound,Milepost,84,9/30/2017 13:55,28,0,0,0,Rural

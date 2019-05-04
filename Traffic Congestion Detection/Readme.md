@@ -4,10 +4,12 @@ Traffic congestion has long been considered a critical issue since it harms peop
 ## Methods
 A novel network-based spatial-temporal clustering framework is proposed in this section to detect traffic congestion patterns with crowdsourcing data on a large scale road network. The proposed approach is based on the knowledge of the map matching algorithm, ST-DBSCAN, Dijkstra algorithm.
 
-- Spatial-temporal Clustering (ST-DBSCAN)
-![ST-DBSCAN](ITS1.jpg " Sample clusters both for highway (top) and local street (bottom)")
-- Modified-Dijkstra Algorithm
+### Spatial-temporal Clustering (ST-DBSCAN)
+![ST-DBSCAN](STDBSCAN.jpg " STDBSCAN")
 
+### Modified-Dijkstra Algorithm
+![Dijkstra](dijkstra.jpg " Dijkstra")
 
-
+## Results
+### Sample Clusters
 ![Sample Clusters](ITS1.jpg " Sample clusters both for highway (top) and local street (bottom)")
